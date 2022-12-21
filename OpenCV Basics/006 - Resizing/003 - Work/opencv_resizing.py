@@ -1,4 +1,5 @@
 # python opencv_resizing.py
+# https://pyimagesearch.com/2021/01/20/opencv-resize-image-cv2-resize/
 
 # Import Needed Packages
 import argparse
