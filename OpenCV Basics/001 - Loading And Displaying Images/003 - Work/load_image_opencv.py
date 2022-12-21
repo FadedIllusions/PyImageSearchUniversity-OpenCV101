@@ -1,4 +1,6 @@
 # python load_image_opencv.py -- image 30th_birthday.png
+# https://pyimagesearch.com/2021/01/20/opencv-load-image-cv2-imread/
+
 
 # Import Needed Packages
 import argparse
