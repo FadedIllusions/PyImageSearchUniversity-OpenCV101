@@ -1,4 +1,5 @@
 # python opencv_translate.py
+# https://pyimagesearch.com/2021/02/03/opencv-image-translation/
 
 # Import Needed Packages
 import numpy as np
